@@ -1,0 +1,253 @@
+Caption for page 1:
+Here is the text from the page you provided:
+
+---
+
+**CARNOT RESEARCH PVT. LTD.**
+
+**COMPANY PROFILE**
+
+HAUZ KHAS, DELHI
+
+carnotresearch.com  
+contact@carnotresearch.com
+
+---
+
+Additionally, there is an image on the right side, which appears to be a black and white photograph of tall buildings viewed from below, showcasing their glass and steel structures. There is also a small graphic or icon in the bottom right corner, which consists of a square with arrows pointing in various directions, possibly indicating movement or flow.
+
+If you need further details or analysis, feel free to ask!
+
+Caption for page 2:
+Here's the text from the image you provided:
+
+---
+
+**Founders**
+
+**Amit Oberoi**  
+Founder  
+**PHD IITD**  
+Having over 25 years of diverse experience in the Indian Army, I've held various senior roles, including Senior Director, Instructor, and Commanding Officer, specializing in IT, Cyber Security, and Data Analytics.
+
+**Expertise**  
+My expertise lies in computer networks, probability theory, and machine learning algorithms, focusing on cybersecurity. I prioritize Organizational Behavior with a people-centric approach for project success.
+
+---
+
+**Brejesh Lall**  
+Co Founder  
+**SR. PROFESSOR**  
+He completed his PhD in Multirate Signal Processing from IIT Delhi in 1997. He worked at Hughes Software Systems for eight years before joining IIT Delhi as a faculty member in 2005.
+
+**Expertise**  
+He has led various research projects relating to signal processing and object tracking. He has mentored startups and served as an expert in government and private agencies. He specializes in Computer Vision, AI, ML, immersive technologies, and NLP.
+
+---
+
+**Website**: www.carnotresearch.com
+
+---
+
+### Description of Images:
+- The page includes circular images of **Amit Oberoi** and **Brejesh Lall** beside their names and titles.
+- The layout is visually structured with distinct sections for each founder and their expertise.
+
+Caption for page 3:
+### Text on the Page
+
+**Business Description**
+
+- EMPOWERING INDIVIDUALS AND ORGANIZATIONS TO LEVERAGE CUTTING EDGE RESEARCH AND ENABLE INNOVATION.
+
+- RIGHT MIX OF ACADEMICS AND INDUSTRY PROFESSIONALS. KEY DIFFERENTIATOR IS OUR ABILITY TO PROVIDE MANAGED RESEARCH FOR SERVING YOUR INNOVATION NEEDS.
+
+- RESEARCH AREAS: ACTIVE IN A WIDE VARIETY OF RESEARCH AREAS WITH MAJOR FOCUS ON COMPUTER VISION AND NATURAL LANGUAGE PROCESSING.
+
+**Footer**: Carnot Research 04
+
+### Description of Images
+
+The image featured on the page depicts a stylized representation of an eye with digital and binary elements surrounding it. The design is created using blue tones and includes lines of binary code (0s and 1s), suggesting themes of technology and data processing. The eye symbolizes vision, which is likely a metaphor for insight or advanced research capabilities in the context of innovation and technology.
+
+Caption for page 4:
+**Text on the Page:**
+
+**Header:**
+- Carnot Research
+
+**Section Title:**
+- What We Do
+
+**Body Text:**
+- We are a team of professors, scientists, and engineers from the top IITs in the country. We are passionate about conducting deployable research and innovating deep-tech products in machine learning and deep learning, including NLP. The team members have over 120 years of experience and hold multiple patents and papers in the top journals and conferences.
+
+**Section Title:**
+- Mission
+
+**Body Text:**
+- Carnot's mission is to work with companies and organizations of all sizes, from startups to Fortune 500 companies to government agencies. We apply AI to design and develop advanced solutions to complex, challenging industry problems.
+
+**Images:**
+- The image includes a photograph of two hands engaged in a discussion, pointing at one of several papers laid out on a table. Among the documents visible are charts and graphs, indicating data analysis or project discussions. 
+- There is a second image depicting a group of professionals collaborating around a table, suggesting teamwork and interaction.
+
+**Design Elements:**
+- The text is complemented by design elements such as circular graphics in shades of blue scattered across the page, contributing to a modern and professional aesthetic.
+
+Caption for page 5:
+The text on the page includes:
+
+**Title:**
+- "INTRODUCTION OF OUR TEAM"
+
+**Team Members:**
+1. **Prof. Brejesh Lall**
+   - Title: Founder
+   - (Accompanied by a photo)
+
+2. **Dr. Amit Oberoi**
+   - Title: Founder
+   - (Accompanied by a photo)
+
+3. **Dr. Shailesh Kumar**
+   - Title: Industry Expert
+   - (Accompanied by a photo)
+
+4. **Dr. Kanica Sachdev**
+   - Title: Research Associate
+   - (Accompanied by a photo)
+
+5. **Mr. Pranav Kanire**
+   - Title: Research Associate
+   - (Accompanied by a photo)
+
+**Footer:**
+- "CARNOTRESEARCH.com"
+
+**Images:**
+- The page contains individual photos of each team member, arranged in colored boxes. Each box includes the person's name and title.
+
+The design is visually appealing with a colorful background and structured layout.
+
+Caption for page 6:
+Sure! Here’s the text and a description of the content in the image:
+
+**Text:**
+
+**Title:** Computer Vision
+
+**Body:**
+We use state of art approaches in computer vision and deep learning to help organizations extract, analyze and understand information from images & videos. By integrating computer vision technology into existing systems, organizations can automate and improve speed of various mechanical processes and also reduce operational costs. Our R&D team is constantly evaluating and testing latest approaches, taking on new client challenges in different areas.
+
+**Research Areas:**
+- FACE RECOGNITION
+- EMOTION RECOGNITION
+- OBJECT DETECTION
+- VIDEO ANALYTICS
+- DEPTH ESTIMATION
+
+**Footer:**
+Carnot Research
+
+**Image Description:**
+- There is a large image of an eye composed of digital data and graphical elements. The eye conveys a sense of technology and vision analysis, with various data overlays representing the field of computer vision.
+  
+**Icons:**
+- Each research area is accompanied by a simple icon that visually represents the concept:
+  - **Face Recognition:** A magnifying glass over a person’s silhouette.
+  - **Emotion Recognition:** A smiling face icon.
+  - **Object Detection:** A ship's wheel icon.
+  - **Video Analytics:** A clapperboard and play button icon.
+  - **Depth Estimation:** An eye in a frame.
+
+The design features a clean and modern layout with a focus on the text and the supporting visual elements.
+
+Caption for page 7:
+**Text on the Page:**
+
+**Title:** Natural Language Processing
+
+**Content:**
+Carnot conducts research in NLP with the goal of making machines read, understand, and communicate in human language more effectively. We help organizations in deriving valuable insights hidden in unstructured data – text, email, customer reviews, social media, audio, images, and videos. Organizations can derive a number of benefits by integrating NLP capabilities into existing systems, like cost control, faster processing, and smoother integration of data analysis capabilities. NLP is especially useful for organizations that analyze or consume complex documents or texts, or rely on this process in some form.
+
+**Images:**
+There are two images present:
+1. The first image, located to the right of the text, features a blue background with graphical representations of sound waves and a digital portrayal of a human face, suggesting themes of technology and cognition.
+   
+**Icons/Illustrations:**
+Below the text, there are several icons arranged in two rows that depict specific applications of NLP:
+- **Speech Recognition**: An icon of a headset with a person’s profile.
+- **Sentiment Analysis**: An icon of two masks (tragedy and comedy).
+- **OCR (Optical Character Recognition)**: An icon of a document with a pencil.
+- **Text Generation**: An icon representing text in a frame.
+- **Machine Translation**: An icon depicting two figures with arrows, indicating translation.
+
+**Footer:**
+At the bottom, the text "Carnot Research" is present, followed by a page number "06". 
+
+**Summary:**
+The document discusses Natural Language Processing and its applications, accompanied by visual elements that enhance comprehension and engagement with the subject matter.
+
+Caption for page 8:
+The image contains a graphic titled "PROJECTS" with a timeline of various projects from 2020 to the present. Here’s the text described in sequence:
+
+1. **2020**
+   - **CR-VISION**: Open source and extensive collection of modules for various computer vision activities.
+
+2. **Feb 2021**
+   - **5G Training Content Creation**: For the engineers of Oppo Mobiles India Pvt Ltd.
+
+3. **Jun 2021**
+   - **Voice to Avatar Animation Tool Development**: Provided research and blueprint architecture to American Teleconferencing Services Ltd.
+
+4. **Jul 2021**
+   - **Research Consultancy**: To Credext Technologies Pvt Ltd for NLP algorithms in bad conditions.
+
+5. **2021**
+   - **Playground**: A demonstration of deep-learning algorithms running directly in the browser.
+
+6. **Present**
+   - **CR-Wavelets**: Python library that enables building wavelet processing based applications which are GPU powered.
+   - **CR-Sparse**: Python library that enables efficiently solving a wide variety of sparse representation-based signal processing problems.
+
+### Images/Table Descriptions:
+- The image includes several icons related to each project milestone, such as checklists, gears, reports, and graphs. These icons visually represent the nature of the projects, such as research, development, and analysis, but no tables or additional images are present.
+
+Caption for page 9:
+The text on the page is as follows:
+
+---
+
+**PRODUCTS & SERVICES**
+
+We develop deep-tech products for AI, Computer Vision, and NLP based requirements.
+
+We provide research consultancy, industry skilling, and IP development services across industries.
+
+---
+
+**Icons/Images Related to Industries:**
+- **HEALTHCARE:** An image of a heart symbolizing healthcare.
+- **TELECOM:** An image representing telecommunications (possibly featuring towers or connections).
+- **CYBER SECURITY:** An image depicting cybersecurity, likely with a lock or shield motif.
+- **MEDIA:** An image relevant to media, possibly with various media elements like camera or broadcasting symbols.
+- **FINANCE:** An image representing finance, possibly reflecting banking or stock market themes.
+- **RETAIL:** An image showing a retail environment, likely a store.
+- **MANUFACTURING:** An image portraying manufacturing processes or factory settings.
+- **IOT (Internet of Things):** An image illustrating IoT, showcasing connections or devices.
+- **SPORTS:** An image related to sports, likely featuring sporting equipment or activities.
+
+These images are arranged in a grid format, corresponding to the industries listed above.
+
+Caption for page 10:
+The text on the image is as follows:
+
+**THANK YOU!**
+
+**CARNOT RESEARCH PVT LTD**  
+contact@carnotresearch.com  
+www.carnotresearch.com  
+
+There are no images or tables related to the text in the picture. The background features a white central section with colored corners: a blue section on the left and a yellow section on the bottom right.
+

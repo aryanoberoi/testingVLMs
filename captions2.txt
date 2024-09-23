@@ -1,0 +1,98 @@
+Caption for page 1:
+Here is the text from the document provided:
+
+---
+
+**Government of India**  
+**Form GST REG-06**  
+**[See Rule 10(1)]**  
+
+**Registration Certificate**  
+
+**Registration Number:** 07AAICC9543P1ZX
+
+1. **Legal Name**  
+   CARNOT RESEARCH PRIVATE LIMITED
+
+2. **Trade Name, if any**  
+   CARNOT RESEARCH PRIVATE LIMITED
+
+3. **Constitution of Business**  
+   Private Limited Company
+
+4. **Address of Principal Place of Business**  
+   GRD FLOOR, FLAT NO 371, DDA SFS FLATS HAUZ KHAS, NEW DELHI, New Delhi, Delhi, 110016
+
+5. **Date of Liability**
+
+6. **Period of Validity**  
+   From 08/10/2020 To Not Applicable
+
+7. **Type of Registration**  
+   Regular
+
+8. **Particulars of Approving Authority**  
+   Signature  
+   Name  
+   Designation  
+   Jurisdictional Office
+
+9. **Date of issue of Certificate**  
+   08/10/2020  
+
+*Note: The registration certificate is required to be prominently displayed at all places of business in the State.*
+
+---
+
+**Description of Images/Tables:**
+- The document includes the emblem of the Government of India at the top.
+- There is a QR code after the "Type of Registration" which likely contains digital information about the registration. 
+
+No additional images or tables are present in the document besides the noted QR code and the government emblem.
+
+Caption for page 2:
+Here's the text from the image:
+
+---
+
+**Annexure A**
+
+GSTIN: 07AAICC9543P1ZX  
+Legal Name: CARNOT RESEARCH PRIVATE LIMITED  
+Trade Name, if any: CARNOT RESEARCH PRIVATE LIMITED  
+
+**Details of Additional Places of Business**
+
+Total Number of Additional Places of Business in the State: 0
+
+---
+
+There are no images or tables present in the document aside from the text.
+
+Caption for page 3:
+The document contains the following text:
+
+---
+
+**Annexure B**
+
+**GSTIN**: 07AAICC9543P1ZX  
+**Legal Name**: CARNOT RESEARCH PRIVATE LIMITED  
+**Trade Name**, if any: CARNOT RESEARCH PRIVATE LIMITED  
+
+**Details of Managing / Whole-time Directors and Key Managerial Persons**
+
+1. **Name**: Shaileesh Kumar  
+   **Designation/Status**: Director  
+   **Resident of State**: Uttar Pradesh  
+
+2. **Name**: BREJESH LALL  
+   **Designation/Status**: Director  
+   **Resident of State**: Delhi  
+
+---
+
+**Images**: There are two images associated with each individual listed, likely photographs of Shaileesh Kumar and Brejesh Lall.
+
+**Tables**: The information is presented in a tabular format listing the directors along with their respective details.
+
